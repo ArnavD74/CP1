@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DrawArtTester
+comment1.params=myrtle\ color\ x\ y1\ y2\ thickness
+comment1.target=void\ drawVertical(Turtle,\ java.awt.Color,\ int,\ int,\ int,\ int)
+comment2.params=myrtle\ color\ x1\ y\ x2\ thickness
+comment2.target=void\ drawHorizontal(Turtle,\ java.awt.Color,\ int,\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

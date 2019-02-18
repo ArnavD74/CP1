@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnimationTesterV2
+comment1.params=myrtle\ color\ startx\ starty\ endx\ endy\ thickness
+comment1.target=void\ makeRect(Turtle,\ java.awt.Color,\ int,\ int,\ int,\ int,\ int)
+comment2.params=ms
+comment2.target=void\ wait(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

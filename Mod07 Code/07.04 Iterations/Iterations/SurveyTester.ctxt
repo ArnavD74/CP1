@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SurveyTester
+comment1.params=myrtle\ votes
+comment1.target=void\ drawBar(Turtle,\ int)
+comment2.params=stringOfDigits
+comment2.target=int\ stringInt(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
