@@ -1,0 +1,8 @@
+	Alan Walker Jukebox
+----------------------------------------
+<1>	Alan Walker - Force
+<2>	Alan Walker - Spectre
+<3>	Alan Walker - Fade
+All music gathered from NCS, a copyright-free record label. Check them out at http://ncsmusic.com/
+----------------------------------------
+Enter integers 1 through 3 to play the corresponding song.

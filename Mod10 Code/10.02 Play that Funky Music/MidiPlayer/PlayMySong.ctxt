@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PlayMySong
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ create\ a\ MIDI\ instrument\ and\ play\ a\ song\ (American\ National\ Anthem)\ in\ the\ MIDI\ format.\r\n\ \r\n\ @author\ Arnav\ Dashaputra\r\n\ @version\ 1/27/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

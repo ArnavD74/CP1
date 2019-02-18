@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SoundFX
+comment0.text=\r\n\ Creates\ audio\ sounds\ effects\r\n\ \r\n\ @author\ Arnav\ Dashaputra\r\n\ @version\ 1/29/19\r\n
+comment1.params=sourceFile\ adjustFactor
+comment1.target=void\ adjustVolume(java.lang.String,\ double)
+comment2.params=sourceFile\ delay
+comment2.target=void\ echo(java.lang.String,\ int)
+comment3.params=sourceFile
+comment3.target=void\ helium(java.lang.String)
+comment4.params=sourceFile
+comment4.target=void\ mirror(java.lang.String)
+numComments=5
