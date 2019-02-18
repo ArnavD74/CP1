@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ShowMessageTester
+comment1.params=stegoObject\ binaryArray
+comment1.target=void\ encodeMessage(Picture,\ int[])
+comment2.params=stegoObject
+comment2.target=int[]\ decodeMessage(Picture)
+comment3.params=bitArray
+comment3.target=void\ binaryToAscii(int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

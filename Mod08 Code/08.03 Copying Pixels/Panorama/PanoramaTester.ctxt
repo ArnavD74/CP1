@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PanoramaTester
+comment1.params=height\ width\ sourcePicture\ targetPicture\ pic1width\ a
+comment1.target=Picture\ copyImage(int,\ int,\ Picture,\ Picture,\ int,\ int)
+comment2.params=redValue\ greenValue\ blueValue
+comment2.target=java.awt.Color\ grayscale(int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

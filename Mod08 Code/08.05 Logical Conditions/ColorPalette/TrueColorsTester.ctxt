@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TrueColorsTester
+comment1.params=redValue\ greenValue\ blueValue
+comment1.target=java.awt.Color\ grayscale(int,\ int,\ int)
+comment2.params=targetPixel\ redValue\ blueValue\ greenValue
+comment2.target=Pixel\ colorPalette(Pixel,\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

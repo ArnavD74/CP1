@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FractalEngineTester
+comment1.params=
+comment1.target=FractalEngine()
+comment2.params=myrtle
+comment2.target=void\ draw(Turtle)
+comment3.params=myrtle\ command\ lineLength
+comment3.target=void\ drawFractal(Turtle,\ java.lang.String,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
