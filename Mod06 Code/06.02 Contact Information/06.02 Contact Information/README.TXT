@@ -1,0 +1,30 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: My Contact Information
+PURPOSE OF PROJECT: Displays me and my parent's contact information
+VERSION or DATE: 12/15/2018
+HOW TO START THIS PROJECT: Compile and run
+AUTHORS: Arnav Dashaputra
+USER INSTRUCTIONS: Run to display the information
+
+PMR: 
+<+s>: I was able to use a blank space to seperate the different people's contact information.
+
+<+s>: I was also able figure out the syntax based on my errors and did not have to refer to the lesson when having syntax questions.
+
+<-s>: I was not used to the seemingly simple BlueJ editor as I have used different ones in the past, and was initially unsure how to run the code.
+
+The main point of this assignment was to familiarize myself with the BlueJ editor, learn how to use white spaces, indentation, in-line comments, a main() method. 
+and conduct a successful PMR.
+
+This relates to a real-life situation because now instead of having to re-iterate information, I can make it display multiple times with ease in a proper presentable format. 
+
+I have learned the basics of Java, such as starting the IDE and writing my first lines of code. 
+
+My biggest problem was running the program but referring to the informational files helped me quickly recover.
+
+In the future, someonething I would do differently is learn how to format text to make it appear better in the console page.

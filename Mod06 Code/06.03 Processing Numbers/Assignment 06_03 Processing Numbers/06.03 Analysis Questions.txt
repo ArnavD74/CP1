@@ -1,0 +1,9 @@
+1. My data's formatting could be improved if there was a defined 
+table with the values on it, for example, a spreadsheet, instead of 
+spacing text from eachother periodically for legibility.
+
+2. I was unsure how to display multiple variables on one line, and figured out I could add blank spaces and use
+the plus sign to do this.
+
+3. I am still unsure how to properly display data in a table, since the way I did it was 
+just spacing text with manual dividers.  

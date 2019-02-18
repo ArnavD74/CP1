@@ -1,0 +1,9 @@
+
+PMR:
+<+s>: I was able to create a table and correctly get values of the different cars.
+
+<+s>: Also, I was able to display the data in a table properly, with proper formatting.
+
+<-s>: I did not know how to do some things, such as including two variables with text in one line.
+
+<-s>: I am not completely sure if my indenting job is correctly done.

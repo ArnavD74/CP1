@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PhishingScam
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ create\ a\ template\ of\ a\ phishing\ scam\ letter.\r\n\ \r\n\ @author\ Arnav\ Dashaputra\r\n\ @version\ 12/23/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=VehicleComparison
+comment0.text=\r\n\ Compares\ two\ different\ types\ of\ cars\ and\ finds\ the\ EPA\ MPG.\ \r\n\r\n\ @author\ (Arnav\ Dashaputra)\r\n\ @version\ (12/16/2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
