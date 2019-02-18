@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImageFlip
+comment1.params=canvasObject
+comment1.target=ImageFlip(Picture)
+comment2.params=
+comment2.target=Picture\ setPicture()
+comment3.params=newPicture\ oldPicture\ xCordinate\ yCordinate\ picWidth\ picHeight
+comment3.target=void\ initFlip(Picture,\ Picture,\ int,\ int,\ int,\ int)
+comment4.params=newPicture\ oldPicture\ xPos
+comment4.target=Picture\ mirrorX(Picture,\ Picture,\ int)
+comment5.params=newPicture\ oldPicture\ yPos
+comment5.target=Picture\ mirrorY(Picture,\ Picture,\ int)
+numComments=6

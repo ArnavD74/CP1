@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DrawingDemoV2
+comment1.params=pict\ background
+comment1.target=DrawingDemoV2(Picture,\ java.awt.Color)
+comment2.params=x1\ y1\ width\ height\ color
+comment2.target=void\ drawARectangle(int,\ int,\ int,\ int,\ java.awt.Color)
+comment3.params=x1\ y1\ width\ height\ color
+comment3.target=void\ drawAFilledRectangle(int,\ int,\ int,\ int,\ java.awt.Color)
+comment4.params=x1\ y1\ width\ height\ color
+comment4.target=void\ drawAnOval(int,\ int,\ int,\ int,\ java.awt.Color)
+comment5.params=x1\ y1\ width\ height\ color
+comment5.target=void\ drawAFilledOval(int,\ int,\ int,\ int,\ java.awt.Color)
+comment6.params=x1\ y1\ width\ height\ startAngle\ arcAngle\ color
+comment6.target=void\ drawAnArc(int,\ int,\ int,\ int,\ int,\ int,\ java.awt.Color)
+comment7.params=x1\ y1\ x2\ y2\ color
+comment7.target=void\ drawALine(int,\ int,\ int,\ int,\ java.awt.Color)
+comment8.params=str\ x1\ y1\ color
+comment8.target=void\ drawAString(java.lang.String,\ int,\ int,\ java.awt.Color)
+comment9.params=
+comment9.target=Picture\ getPictureTile()
+numComments=10

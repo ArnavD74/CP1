@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RetrieveData
+comment1.params=url\ loc
+comment1.target=RetrieveData(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ crawlWebSite()
+comment3.params=
+comment3.target=int[]\ getMaxTemp()
+comment4.params=
+comment4.target=int[]\ getMinTemp()
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ChromaKey
+comment1.params=pictureObject\ pictureBackground
+comment1.target=void\ replaceBackground(Picture,\ Picture)
+numComments=2

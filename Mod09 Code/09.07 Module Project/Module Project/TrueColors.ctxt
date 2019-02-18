@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TrueColors
+comment1.params=redValue\ greenValue\ blueValue
+comment1.target=java.awt.Color\ grayscale(int,\ int,\ int)
+comment2.params=redValue\ greenValue\ blueValue
+comment2.target=java.awt.Color\ negative(int,\ int,\ int)
+comment3.params=redValue\ greenValue\ blueValue
+comment3.target=java.awt.Color\ colorize(int,\ int,\ int)
+comment4.params=targetPixel\ redValue\ blueValue\ greenValue
+comment4.target=Pixel\ colorPalette(Pixel,\ int,\ int,\ int)
+numComments=5

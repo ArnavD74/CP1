@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KaleidoscopeImages
+comment1.params=newPicture\ oldPicture\ xCordinate\ yCordinate\ picWidth\ picHeight
+comment1.target=void\ initMirror(Picture,\ Picture,\ int,\ int,\ int,\ int)
+comment2.params=newPicture\ oldPicture\ xPos\ yPos
+comment2.target=Picture\ mirrorXY(Picture,\ Picture,\ int,\ int)
+comment3.params=newPicture\ oldPicture\ xPos
+comment3.target=Picture\ mirrorX(Picture,\ Picture,\ int)
+comment4.params=newPicture\ oldPicture\ yPos
+comment4.target=Picture\ mirrorY(Picture,\ Picture,\ int)
+numComments=5

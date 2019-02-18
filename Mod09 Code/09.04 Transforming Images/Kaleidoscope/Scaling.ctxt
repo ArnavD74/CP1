@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Scaling
+comment1.params=pic
+comment1.target=Scaling(Picture)
+comment2.params=xFactor\ yFactor
+comment2.target=Picture\ scalePicture(double,\ double)
+numComments=3
