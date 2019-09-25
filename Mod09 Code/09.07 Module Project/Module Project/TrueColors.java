@@ -5,7 +5,6 @@
  * @version 1/3/2018
  */
 import java.awt.*;                                                      //import the awt graphics package
-import java.util.Scanner;
 class TrueColors
 //creates class for special effect filters.
 {
